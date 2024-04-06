@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: papayawhip;
+}
+nav{
+    background-color: rgb(32, 29, 29);
+}
+#idnav{
+    background-color: rgb(24, 21, 21);
+}
+#idtr{
+    background-color: rgb(24, 21, 21);
+    color: white;
+}
+#ida{
+    float: right;
+}
+#ida2{
+    float: right;
+}
+#idBody{
+    background-color: papayawhip;
+}
+#idInicio{
+    background-color: rgb(46, 45, 45);
+}
+#idNosotros{
+    background-color: rgb(46, 45, 45);
+}
+#idGaleria{
+    background-color: rgb(46, 45, 45);
+}
+#idContacto{
+    background-color: rgb(46, 45, 45);
+}
